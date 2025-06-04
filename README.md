@@ -2,8 +2,8 @@
 
 ## Policy
 
-https://ditustudio.github.io/aisiora/policy.html
+https://ditustudio.github.io/mitu/policy.html
 
 ## Term
 
-https://ditustudio.github.io/aisiora/term.html
+https://ditustudio.github.io/mitu/term.html
