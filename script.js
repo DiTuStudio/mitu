@@ -1,4 +1,4 @@
-var appName = "Mitu: AI Face Art";
+var appName = "MituX AI: Face Art";
 var storeUrl =
     "https://codecanyon.net/item/AI Gen Vision-make-money-flutter-app/44937626";
 var date = "2023-04-11";
